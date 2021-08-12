@@ -1,14 +1,24 @@
-# <center> Normas SQuaRE
-
+# <center>Programação para computação móvel
 <div align="justify">
-As normas de Requisitos e Avaliação de Qualidade de Sistemas e Software são a atualização da ISO 9126, com o objetivo de organizar os documentos e deixar mais clara a utilização deles.
 
-Vantagens:
+**Aula 01** - Plano de ensino, divisão das equipes e apresentação do ambiente.
 
-- Coordenar a orientação sobre a mensuração e avaliação de qualidade;
-- Orientar sobre especificação de requisitos de qualidade;
-- Colocar a ISO 9126 sob a visão de produto. 
+**Integrantes do grupo**
 
-<div align="center">
-    <img src="../../_media/qualidade/qualidade-uso-square.jpg" alt="Imagem catergorias square">
-</div>
+* nome: Geise Dioneia de Albuquerque Saunier<br>
+email: geisesaunier3939@gmail.com<br>
+github: https://github.com/GeiseSaunier
+
+* nome: Millena Sangela de Almeida Sales<br>
+email: millenasangela@ufam.edu.br<br>
+github: https://github.com/Millenas
+
+* nome: Iano de Benedito Maciel<br>
+email: ianomaciel6385@gmail.com<br>
+github: https://github.com/IanoMaciel
+
+
+* nome: Ana Cristina da Silva Vieira<br>
+email: anac.s.vieira@hotmail.com<br>
+github: https://github.com/AnaCristina1972
+
