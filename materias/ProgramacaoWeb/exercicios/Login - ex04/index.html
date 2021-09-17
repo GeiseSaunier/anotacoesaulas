@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="em">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht-device-width, initial-scale-1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script defer src="./validar.js"></script>
+    <title>Login</title>
+
+</head>
+<body>
+
+<main class="login">
+    <div class="login__container">
+
+        <h1 class="login__title">Login</h1>
+        <form  class="login__form">
+            <input class="login__input" type="cpf" placeholder="CPF" id="cpf" maxlength="11">
+            <spam class="login__input-border"></spam>
+            <input class="login__input" type="password" placeholder="Senha" id="senha">
+            <spam class="login__input-border"></spam>
+            <button class="login__submit" onclick="validarCPF()">Login</button>
+
+            <a class="login__reset" href="#">Esqueci a senha</a>
+        </form>
+
+
+    </div>
+</main>
+
+
+
+</body>
+</html>
