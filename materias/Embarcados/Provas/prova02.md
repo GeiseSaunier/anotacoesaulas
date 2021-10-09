@@ -204,11 +204,15 @@ int main() {
 
     int cont, Q_sx; 
 
+    printf("Coloque a tabela verdade NAND aqui"); 
+
     for (cont = 0; cont < 4; cont++) { 
 
-        Q_sx = !(Q_sa[cont] * Q_sb[cont]); 
-
-        printf("\n %d RESULT PARA PORTA NAND %d = %d", Q_sa[cont], Q_sb[cont],  Q_sx); 
+        if (Q_sa[cont] == 1 && Q_sb[cont] == 1) 
+            Q_sx = 0;
+        else
+            Q_sx = 1;
+        printf("\n %d PORTA NAND %d = %d", Q_sa[cont], Q_sb[cont], Q_sx); 
     } 
 }
 ~~~
