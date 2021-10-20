@@ -1,0 +1,90 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+
+    background-image: url("../IMAGENS/fundologin.jpg");
+    background-position: 50% 90%;
+    color: white;
+    font-family: Arial;
+
+}
+
+input {
+
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px;
+    background-color: rgba(255,255,255,0.01);
+    color: white;
+    outline: none;
+
+}
+
+div#corp-form-Cad {
+
+    width: 420px;
+    margin: 80px auto 0px auto;
+
+}
+
+
+div#corp-form {
+
+    width: 420px;
+    margin: 150px auto 0px auto;
+
+}
+
+div#corp-form h1, div#corp-form-Cad h1{
+
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+a:hover {
+
+    text-decoration: underline;
+}
+
+input[type=submit] {
+
+    background-color: #FF0066;
+    border: none;
+    cursor: pointer;
+
+}
+
+::-webkit-input-placeholder {
+    color: white;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    color:white;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    color: white;  
+ }
+ 
+ :-ms-input-placeholder {  
+    color: white;  
+ }
+
